@@ -76,11 +76,14 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 5. Abre un Pull Request
 
 
-## Pantallazos 
+## Pantallazos 📷
 
-![image](https://github.com/user-attachments/assets/2914667e-b9f5-40ac-92ef-971e1c21a98c)
+![image](https://github.com/user-attachments/assets/974bbf70-c2fc-4108-a922-fcb935f177a3)
 
-![image](https://github.com/user-attachments/assets/f8c4b2a1-00f3-49b4-8d85-636e27e2f429)
+![image](https://github.com/user-attachments/assets/ff2a2e6a-65d9-40da-bc90-de6d0729abda)
+
+![image](https://github.com/user-attachments/assets/eed1d550-56cf-409b-ae82-81675d2686ae)
+
 
 
 
