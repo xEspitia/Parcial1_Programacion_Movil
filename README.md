@@ -39,22 +39,6 @@ git clone https://github.com/tu-usuario/BrainBattles2.git
    - Haz clic en el botón "Run" (ícono de play verde) en la barra de herramientas
    - Selecciona el dispositivo donde quieres instalar la aplicación
 
-## Estructura del Proyecto 📁
-
-```
-app/
-├── src/
-│   ├── main/
-│   │   ├── java/com/espi/brainbattles2/
-│   │   │   ├── model/           # Modelos de datos
-│   │   │   ├── navigation/      # Configuración de navegación
-│   │   │   ├── ui/             # Componentes de la interfaz
-│   │   │   ├── viewmodel/      # ViewModels
-│   │   │   └── MainActivity.kt # Punto de entrada
-│   │   └── res/                # Recursos
-│   └── test/                   # Pruebas unitarias
-└── build.gradle.kts            # Configuración de Gradle
-```
 
 ## Tecnologías Utilizadas 🛠️
 
@@ -91,12 +75,12 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+## Pantallazos 
 
-## Contacto 📧
+![image](https://github.com/user-attachments/assets/2914667e-b9f5-40ac-92ef-971e1c21a98c)
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter)
+![image](https://github.com/user-attachments/assets/f8c4b2a1-00f3-49b4-8d85-636e27e2f429)
 
-Link del Proyecto: [https://github.com/tu-usuario/BrainBattles2](https://github.com/tu-usuario/BrainBattles2) 
+
+
