@@ -22,7 +22,7 @@ BrainBattles 2 es una aplicación de trivia interactiva desarrollada en Android 
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/BrainBattles2.git
+https://github.com/xEspitia/Parcial1_Programacion_Movil.git
 ```
 
 2. Abre el proyecto en Android Studio:
